@@ -20,7 +20,7 @@ Github的issue功能：
         -   例：
             comment #1      -这个提交会出现在issue的记录中
             如果添加：
-                -   fix #n      -提交记录出现在第n个issue
+                -   fix #n      -提交记录出现在第n个issue，自动关闭第n个issue
                 -   fixes #n
                 -   fixed #n
                 -   colse #n    
