@@ -23,9 +23,9 @@ Github的issue功能：
                 -   fix #n      -提交记录出现在第n个issue
                 -   fixes #n
                 -   fixed #n
-                -   colse #n    -自动关闭第n个issue
+                -   colse #n    
                 -   closes #n
-                -   closed #n
+                -   closed #n   -自动关闭第n个issue
 [3](额外属性)
     -   Labels，标签。包括 enhancement、bug、invalid 等，表示 issue 的类型，解决的方式
     -   Milestone，里程碑。通常用来做版本管理，v0.1、v1.0之类的，也可以是任意自定义字符串。一个里程碑对应的所有 issue 都被关闭后，这个里程碑会被自动认为已经达成。               
@@ -37,7 +37,8 @@ Github的issue功能：
         而 issue 的 Assignee 功能，就是这个在线协作系统的核心，足以让一群线上的开发者，一起完成一个软件项目。
     -   单词要认真记啊。。。，混蛋，最近银魂看多了，就变成这个风格了  
     -   2016-5-21 
-    -   准备打篮球  
+    -   准备打篮球
+    -   看来打不上了
         
         
 
