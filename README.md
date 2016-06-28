@@ -9,7 +9,8 @@
     -   [ObsoleteAtttibute](https://github.com/Aisuko/.net/tree/master/c%23)
     -   [Reflect](https://github.com/Aisuko/.net/tree/master/c%23)
     -   [Sealed](https://github.com/Aisuko/.net/tree/master/c%23)
-
+    -   [Genneric](https://github.com/Aisuko/.net/tree/master/c%23)
+    -   [Thread](https://github.com/Aisuko/.net/tree/master/c%23)
 
 #[File-for-github](https://github.com/Aisuko/.net/tree/File-for-github)
 
