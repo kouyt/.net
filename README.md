@@ -16,7 +16,7 @@
 
 	<a name ="pictrue"/>
 -	[![link]](https://github.com/Aisuko/.net)
--	[link]:http://c.hiphotos.baidu.com/baike/pic/item/b219ebc4b74543a920dd942b1f178a82b8011416.jpg ""
+-	[link]:https://raw.githubusercontent.com/Aisuko/.net/File-for-github/Github-README/atsuko.bmp "点击进入主页"
 
 
 -	[TOP](#index)
