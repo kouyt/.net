@@ -9,5 +9,5 @@
 
 > 作为分支，github功能详解，使用命令学习记录 by libw 2016-5-22 在HAERBIN
 
--   [Github-issue](https://github.com/Aisuko/.net/tree/File-for-github/#Github-issue)
--	[Github-README]()
+-   [Github-issue](./Github-issue)
+-	[Github-README](./Github-README)
