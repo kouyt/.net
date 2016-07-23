@@ -16,8 +16,7 @@
 
 	<a name ="pictrue"/>
 -	![](https://github.com/Aisuko/.net/blob/File-for-github/Github-README/atsuko.bmp"点击进入主页")
--	[pic](https://github.com/Aisuko/.net/blob/File-for-github/Github-README/atsuko.bmp "点击进入主页")
--	[pic]:https://github.com/Aisuko/.net/blob/File-for-github/Github-README/atsuko.bmp "点击进入主页"
+
 
 
 -	[TOP](#index)
