@@ -1,4 +1,4 @@
-#[.net](https://github.com/Aisuko/.net "master")
+#[.NET](https://github.com/Aisuko/.net "master")
 
 > 日常工作，使用.NET，c#做后端开发，总结的经验，和学习笔记
 
