@@ -15,8 +15,8 @@
 -	[Github-README](./Github-README "README")
 
 	<a name ="pictrue"/>
--	[![link]](https://github.com/Aisuko/.net)
--	[link]:https://raw.githubusercontent.com/Aisuko/.net/File-for-github/Github-README/atsuko.bmp "点击进入主页"
+-	[![pic]](https://github.com/Aisuko/.net)
+-	[pic]:https://raw.githubusercontent.com/Aisuko/.net/File-for-github/Github-README/atsuko.bmp "点击进入主页"
 
 
 -	[TOP](#index)
