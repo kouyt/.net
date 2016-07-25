@@ -12,7 +12,7 @@
 
 <a name="index"/>   目录
 -   [.net](https://github.com/Aisuko/.net ".net总结")
-    -   [Delegate](.//C#/Delegate "委托")
+    -   [Delegate](.//C#//Delegate "委托")
     -   [EvenAndAtrribute](./EvenAndAtrribute "事件和委托")
     -   [Exception](./Exception "异常")
     -   [ObsoleteAtttibute](./ObsoleteAtttibute "特性")
