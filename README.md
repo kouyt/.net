@@ -8,12 +8,12 @@
 
 #[.net](https://github.com/Aisuko/.net/ ".net")
 
-> '.net'学习笔记
+> .net基础，由于特殊经历，对基础知识掌握不够，需要加强
 
 <a name="index"/>目录
-    * [CS](./CS "偏后台")
-        * [Delegate](./CS "委托")
-        * [EvenAndAtrribute](./CS/EvenAndAtrribute "事件和委托")
+* [Question]()
+* [Delegate]()
+    * 简短介绍
 
 
 <a name="request"/>     Github
