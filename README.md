@@ -1,8 +1,8 @@
-# <a name ="title"/> Atsukon Lee
+# <a name ="title"/> 'Atsukon Lee'
 |[主目录](./)|[分支](https://github.com/Aisuko/.net/tree/File-for-github "file for github")|
 |----------------|---------------|
-|[Delegate](./c#/Delegate "委托")||
-|[Linq](./c#/Linq "集成查询语言")||
+|[Delegate](./c#/Delegate)||
+|[Linq](./c#)||
 |[Qusetion](./c#/Qusetion ".net面试题集锦")||
 
 
