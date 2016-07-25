@@ -1,17 +1,17 @@
 # <a name ="title"/>    Atsukon Lee
-|[主目录](./)|[分支](https://github.com/Aisuko/.net/tree/File-for-github "file for github")|
+|Email||
 |----------------|---------------|
-|urakiny@gmail.com||
-|yurakin@outlook.com||
-|||
+|urakiny@gmail.com|Gmail|
+|yurakin@outlook.com|OutLook|
+|https://twitter.com/Atsukon_Lee|twitter|
 
 
 #[.net](https://github.com/Aisuko/.net/ ".net")
 
-> .net学习笔记
+> '.net'学习笔记
 
 <a name="index"/>   目录
--   [.net总结](./ ".net总结")
+-   [.net](https://github.com/Aisuko/.net ".net总结")
     -   [Delegate](./C#/Delegate "委托")
     -   [EvenAndAtrribute](./EvenAndAtrribute "事件和委托")
     -   [Exception](./Exception "异常")
@@ -23,10 +23,11 @@
     -   [Linq](./Linq "集成查询语言")
     -   [Qusetion](./Qusetion ".net面试题集锦")
     -   [Function](./Function ".net函数")
+    -   [web](./web)
 
-<a name="request"/> 分支
+<a name="request"/>     Github
 #[File-for-github](https://github.com/Aisuko/.net/tree/File-for-github "file for github")
-> github 学习笔记
+> 'github' 学习笔记
 
 <a name="language"/>    语言 
 >   -   [x] c#
