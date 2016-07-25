@@ -19,7 +19,7 @@
     * [Linq]("Linq")
     * [Stream]("串行与解串")
     * [Interface]("接口")
-    * [Thread("线程")
+    * [Thread]("线程")
     * [Sealed]("密封类")
     * [EventAndAttribute]("事件和特性")
     * [Delegate]("委托")
@@ -36,9 +36,11 @@
 >   -   [x] c#
 >   -   [x] Python
 >   -   [x] ORACLE
+>   -   [x] Jquery
+>   -   [X] Ajax
 >   -   [ ] C++
->   -   [x] sql
+>   -   [x] Sql
 >   -   [x] Node.js
->   -   [x] c
+>   -   [ ] C
 
 [回到顶部](#title)   
