@@ -15,7 +15,7 @@
 -	[Github-README](./Github-README "README")
 
 	<a name ="pictrue"/>
--	![](https://github.com/Aisuko/.net/blob/File-for-github/Github-README/atsuko.bmp"点击进入主页")
+-	![](https://github.com/Aisuko/.net/blob/File-for-github/Github-README/atsuko.jpg)
 
 
 
