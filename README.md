@@ -32,7 +32,7 @@
 #[File-for-github](https://github.com/Aisuko/.net/tree/File-for-github "file for github")
 > `github` 学习笔记
 
-##<a name="language"/>    语言 
+##<a name="language"/>    技能 
 >   -   [x] c#
 >   -   [x] Python
 >   -   [x] ORACLE
@@ -43,4 +43,4 @@
 >   -   [x] Node.js
 >   -   [ ] C
 
-[回到顶部](#title)   
+##[回到顶部](#title)   
