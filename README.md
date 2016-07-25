@@ -1,9 +1,9 @@
-# <a name ="title"/> 'Atsukon Lee'
+# <a name ="title"/>    Atsukon Lee
 |[主目录](./)|[分支](https://github.com/Aisuko/.net/tree/File-for-github "file for github")|
 |----------------|---------------|
-|[Delegate](./c#/Delegate)||
-|[Linq](./c#)||
-|[Qusetion](./c#/Qusetion ".net面试题集锦")||
+|urakiny@gmail.com||
+|yurakin@outlook.com||
+|||
 
 
 #[.net](https://github.com/Aisuko/.net/ ".net")
@@ -12,7 +12,7 @@
 
 <a name="index"/>   目录
 -   [.net总结](./ ".net总结")
-    -   [Delegate](./Delegate "委托")
+    -   [Delegate](./C#/Delegate "委托")
     -   [EvenAndAtrribute](./EvenAndAtrribute "事件和委托")
     -   [Exception](./Exception "异常")
     -   [ObsoleteAtttibute](./ObsoleteAtttibute "特性")
