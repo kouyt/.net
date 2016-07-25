@@ -1,6 +1,6 @@
 |[主目录](./)|[分支](https://github.com/Aisuko/.net/tree/File-for-github "file for github")|
 |----------------|---------------|
-|:[Delegate](./Delegate "委托"):||
+|[Delegate](./Delegate "委托")||
 |[Linq](./Linq "集成查询语言")||
 |[Qusetion](./Qusetion ".net面试题集锦")||
 
