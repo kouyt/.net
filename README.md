@@ -12,17 +12,17 @@
 
 <a name="index"/>   目录
 -   [.net](https://github.com/Aisuko/.net ".net总结")
-    -   [Delegate](.//C#//Delegate "委托")
-    -   [EvenAndAtrribute](./EvenAndAtrribute "事件和委托")
-    -   [Exception](./Exception "异常")
-    -   [ObsoleteAtttibute](./ObsoleteAtttibute "特性")
-    -   [Reflect](./Reflect "反射")
-    -   [Sealed](./Sealed "密封类修饰符")
-    -   [Genneric](./Genneric "泛型")
-    -   [Thread](./Thread "线程")
-    -   [Linq](./Linq "集成查询语言")
-    -   [Qusetion](./Qusetion ".net面试题集锦")
-    -   [Function](./Function ".net函数")
+    -   [Delegate](./CS/Delegate "委托")
+    -   [EvenAndAtrribute](./CS/EvenAndAtrribute "事件和委托")
+    -   [Exception](./CS/Exception "异常")
+    -   [ObsoleteAtttibute](./CS/ObsoleteAtttibute "特性")
+    -   [Reflect](./CS/Reflect "反射")
+    -   [Sealed](./CS/Sealed "密封类修饰符")
+    -   [Genneric](./CS/Genneric "泛型")
+    -   [Thread](./CS/Thread "线程")
+    -   [Linq](./CS/Linq "集成查询语言")
+    -   [Qusetion](./CS/Qusetion ".net面试题集锦")
+    -   [Function](./CS/Function ".net函数")
     -   [web](./web)
 
 <a name="request"/>     Github
