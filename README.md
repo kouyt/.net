@@ -24,6 +24,8 @@
     * [EventAndAttribute]("事件和特性")
     * [Delegate]("委托")
 * [BS](./BS)
+    * [Jquery]()
+    * [Ajax]()
 
 
 ##<a name="request"/>     Github
