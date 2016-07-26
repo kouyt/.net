@@ -3,7 +3,7 @@
 |----------------|---------------|
 |urakiny@gmail.com|Gmail|
 |yurakin@outlook.com|OutLook|
-|https://twitter.com/Atsukon_Lee|twitter|
+|https://twitter.com/Atsukon_Lee|Twitter|
 
 
 #[.net](https://github.com/Aisuko/.net/ ".net")
