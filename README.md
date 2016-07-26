@@ -7,7 +7,6 @@
 #[FILE FOR GITHUB](https://github.com/Aisuko/.net/tree/File-for-github "file for github")
 
 > 作为分支，`github功能详解`，使用命令学习记录 by libw 2016-5-22 在HAERBIN  
-> [新增插入图片](#pictrue)
 
 * [Github-issue](./Github-issue "issue")
 * [Github-README](./Github-README "README")
